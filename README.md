@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 🖖
+
+My name is Chris. I am a full stack developer and software architect. 
+
+I love coding and I love working with Go 🚀 and nodejs with Typescript 🐬, I also love native iOS development using Swift 🏎️ and SwiftUI.
+
+- 🔭 I’m currently working with Go and Nodejs on both REST and GraphQL Microservices. 
+- 🌱 I’m currently learning gRPC because I feel that it's a perfect fit for Microservices.
+- 🤖 I would love to be better at working with Docker and K8s.
+
+🏖️ Have a great day!
 
 <!--
 **cgiacomi/cgiacomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
